@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "username": "brian",
+      "email": "brianobot9@gmail.com",
+      "password": "password"
+    },
+    {
+      "username": "vvgirl",
+      "email": "asuzunmeri@gmail.com",
+      "password": "cook"
+    },
+    {
+      "username": "techie",
+      "email": "ouvertmodelsagency@gmail.com",
+      "password": "password"
+    }
+  ]
+}
